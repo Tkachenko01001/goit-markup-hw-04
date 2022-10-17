@@ -476,15 +476,14 @@ button:focus {
 /* section company advantages style */
 
 .border-adv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: #F5F4FA;
     border-radius: 4px;
     margin-bottom: 30px;
     width: 270px;
     height: 120px;
-}
-
-.border-icon {
-    padding: 25px 100px;
 }
 
 section {
